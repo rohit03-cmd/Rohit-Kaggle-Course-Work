@@ -69,4 +69,4 @@ I am actively pursuing opportunities in Data Science and Machine Learning. Feel 
 * **LinkedIn:** [[Link to your LinkedIn Profile]](https://www.linkedin.com/in/rohit-choudhary-92a026202/)
 
 ***
-*This repository is maintained by [Your Full Name].*
+*This repository is maintained by Rohit Choudhary.*
